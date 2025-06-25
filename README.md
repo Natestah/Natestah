@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![image](https://github.com/user-attachments/assets/63f4408a-b946-47e4-af9c-b373b18f7e2d)
 
 <!--
 **Natestah/Natestah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
