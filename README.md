@@ -1,5 +1,4 @@
-
-![AboutImage](https://github.com/user-attachments/assets/6bf07174-7abf-41e6-8dd8-d3bbee66807f)
+![image](https://github.com/user-attachments/assets/4e27299b-a9a4-4a69-b760-2010de15fb40)
 
 # Nathan Silvers
 
