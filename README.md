@@ -5,11 +5,10 @@
 
 I was one of the founding developers of Call of Duty, there are only 27 people in the world with that distinction.  I continued with InfinityWard for over 20 years. During the later 8 years I served as a Tools Engineer.
 
-- 🔭 I’m currently working on Blitz Search - Find-in-Files ++ for Any IDE
 
-[Join NathanSilvers. Discord](https://discord.com/invite/UYPwQY9ngm) 
+[Check out my YouTube](https://youtube.com/@natestahsspace?si=zi2437U5OaE3S0g5)
 
-[Telling my Stories on X](https://x.com/BlitzSearch/articles) 
+[Telling my Stories on Reddit](https://www.reddit.com/u/Front-Independence40/s/yR3KuUKSiA)
 
 <!--
 
